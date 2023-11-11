@@ -30,8 +30,8 @@ internal class Program
         CartManager cartManager = new CartManager();
         cartManager.Add(product1);
         cartManager.Add(product2);
-        //cartManager.Add();
-        //cartManager.Add();
+        cartManager.Add2("Elma","AmasyaElma",123.5,10);
+        cartManager.Add2("Karpuz","DiyarbakırKarpuz",155.5,50);
 
 
         Console.Read();
