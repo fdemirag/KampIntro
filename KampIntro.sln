@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypesReferenceTypes", "ValueTypesReferenceTypes\ValueTypesReferenceTypes.csproj", "{5A3E4706-A05E-46F2-90CF-5FD2BB403986}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{FF30D58A-D1BA-4154-8D3F-31F69BBCB822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5A3E4706-A05E-46F2-90CF-5FD2BB403986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3E4706-A05E-46F2-90CF-5FD2BB403986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3E4706-A05E-46F2-90CF-5FD2BB403986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF30D58A-D1BA-4154-8D3F-31F69BBCB822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF30D58A-D1BA-4154-8D3F-31F69BBCB822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF30D58A-D1BA-4154-8D3F-31F69BBCB822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF30D58A-D1BA-4154-8D3F-31F69BBCB822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
