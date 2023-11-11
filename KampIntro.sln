@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{BB11DA2F-8045-467C-B4CE-29BD4AB07CDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{87ACAEE6-0ED5-44B0-AD43-4CE8AD37A9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB11DA2F-8045-467C-B4CE-29BD4AB07CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB11DA2F-8045-467C-B4CE-29BD4AB07CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB11DA2F-8045-467C-B4CE-29BD4AB07CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87ACAEE6-0ED5-44B0-AD43-4CE8AD37A9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ACAEE6-0ED5-44B0-AD43-4CE8AD37A9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ACAEE6-0ED5-44B0-AD43-4CE8AD37A9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ACAEE6-0ED5-44B0-AD43-4CE8AD37A9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

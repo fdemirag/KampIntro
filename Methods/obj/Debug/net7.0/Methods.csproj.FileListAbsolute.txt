@@ -1,0 +1,15 @@
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/bin/Debug/net7.0/Methods
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/bin/Debug/net7.0/Methods.dll
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.dll
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/fatihdemirag/Desktop/CSharp/KampIntro/Methods/obj/Debug/net7.0/ref/Methods.dll
